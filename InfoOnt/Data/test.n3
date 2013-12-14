@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Bank_of_America> <http://dbpedia.org/ontology/locationCity> <http://dbpedia.org/resource/Charlotte,_North_Carolina>
+<http://dbpedia.org/resource/Bank_of_America> <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Brian_T._Moynihan>
+<http://dbpedia.org/resource/Bank_of_America> <http://dbpedia.org/ontology/division> <http://dbpedia.org/resource/Bank_of_America_Home_Loans>
+<http://dbpedia.org/resource/Bank_of_America> <http://xmlns.com/foaf/0.1/name> <http://dbpedia.org/resource/Bank_of_America>
+<http://dbpedia.org/resource/Bank_of_America> <http://dbpedia.org/ontology/foundationPlace> <http://dbpedia.org/resource/Charlotte,_North_Carolina>
+<http://dbpedia.org/resource/Bank_of_America> <http://dbpedia.org/ontology/foundedBy> <http://dbpedia.org/resource/Amadeo_Giannini>
+<http://dbpedia.org/resource/Bank_of_America> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Charlotte,_North_Carolina>
+<http://dbpedia.org/resource/Bank_of_America> <http://dbpedia.org/ontology/regionServed> <http://dbpedia.org/resource/California>
+<http://dbpedia.org/resource/Bank_of_America> <http://dbpedia.org/ontology/locationCountry> <http://dbpedia.org/resource/Charlotte,_North_Carolina>
+<http://dbpedia.org/resource/Bank_of_America> <http://dbpedia.org/ontology/predecessor> <http://dbpedia.org/resource/NationsBank>
